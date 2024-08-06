@@ -20,10 +20,10 @@ This C-based console application allows users to manage their daily to-do lists 
    git clone https://github.com/your-username/todo-console-app.git
    cd todo-console-app
 2. **Compile the application**:
-```sh 
-gcc main.c -o todo_app
-```
+   ```sh 
+   gcc main.c -o todo_app
+   ```
 3. **Run the application:**:
-```sh 
-./todo_app
-```
+   ```sh 
+   ./todo_app
+   ```
